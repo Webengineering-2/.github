@@ -6,9 +6,9 @@ Welcome to the landing page for the `Webengineering-2` GitHub organization.
 
 | Subproject | Description |
 | --- | --- |
-| [Example Subproject](https://github.com/Webengineering-2/example-subproject) | Example repository for one of our subprojects. Replace this with the real project link and description. |
+| [ERP Backend](https://github.com/Webengineering-2/erp-backend) | Backend service for the ERP subproject. |
 
 ## Planning
 
-- [Kanban Board](https://github.com/orgs/Webengineering-2/projects)
-- [Roadmap](https://github.com/orgs/Webengineering-2/projects)
+- [Kanban Board](https://github.com/orgs/Webengineering-2/projects/1/views/2)
+- [Roadmap](https://github.com/orgs/Webengineering-2/projects/1/views/3)
